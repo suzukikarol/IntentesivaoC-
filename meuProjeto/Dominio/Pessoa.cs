@@ -6,6 +6,13 @@ namespace meuProjeto.Dominio
 {
     class Pessoa
     {
+
+        public Pessoa(string nome, string profissao)
+        {
+            Nome = nome;
+            Profissao = profissao;
+        }
+
         public string Nome { get; set; }
         public int Idade { get; set; }
         public DateTime DataNascimento { get; set; }
