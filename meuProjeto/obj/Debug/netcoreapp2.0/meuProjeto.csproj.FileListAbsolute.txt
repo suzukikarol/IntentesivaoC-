@@ -1,0 +1,11 @@
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\bin\Debug\netcoreapp2.0\meuProjeto.deps.json
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\bin\Debug\netcoreapp2.0\meuProjeto.runtimeconfig.json
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\bin\Debug\netcoreapp2.0\meuProjeto.runtimeconfig.dev.json
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\bin\Debug\netcoreapp2.0\meuProjeto.dll
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\bin\Debug\netcoreapp2.0\meuProjeto.pdb
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.AssemblyInfo.cs
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.dll
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.pdb
+C:\Users\Alunos\Documents\GitHub\IntentesivaoC-\meuProjeto\meuProjeto\obj\Debug\netcoreapp2.0\meuProjeto.csprojAssemblyReference.cache
